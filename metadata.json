@@ -1,0 +1,6 @@
+{
+  "name": "Mponzi - Task & Calendar Reminder",
+  "description": "Executive task manager and calendar system with precision audio alarm reminders, time-blocking, and multi-view schedule planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
